@@ -21,8 +21,8 @@ Public Class FrmMain
         CboQuestionNum.Items.Add("5")
         CboQuestionNum.Items.Add("10")
         CboQuestionNum.Items.Add("15")
-        CboQuestionNum.Items.Add("20")
         CboQuestionNum.Items.Add("25")
+        CboQuestionNum.Items.Add("60")
 
     End Sub
 
